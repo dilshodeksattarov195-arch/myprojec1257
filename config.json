@@ -1,0 +1,12 @@
+{
+    "meta": {
+        "module": "notifydalidate",
+        "uuid": 2082849,
+        "checksum": "i74sdp"
+    },
+    "settings": {
+        "retries": 2,
+        "enabled": false,
+        "mode": "staging"
+    }
+}
